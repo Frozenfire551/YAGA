@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\oem\\onedrive\\documents\\unreal projectsv5\\yaga\\yaga\\source\\yaga\\yaga.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\oem\\onedrive\\documents\\unreal projectsv5\\yaga\\yaga\\intermediate\\build\\win64\\x64\\yagaeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\oem\\onedrive\\documents\\unreal projectsv5\\yaga\\yaga\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yaga\\definitions.yaga.h",
+            "c:\\users\\oem\\onedrive\\documents\\unreal projectsv5\\yaga\\yaga\\source\\yaga\\yaga.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,50 @@
+"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Source\Yaga\Yaga.cpp"
+/FI"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\YagaEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\UnrealEditor\Development\Yaga\Definitions.Yaga.h"
+/Yu"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\YagaEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\YagaEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\UnrealEditor\Development\Yaga\Yaga.cpp.obj"
+/sourceDependencies "C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\UnrealEditor\Development\Yaga\Yaga.cpp.dep.json"
+@"C:\Users\OEM\OneDrive\Documents\Unreal ProjectsV5\YAGA\Yaga\Intermediate\Build\Win64\x64\UnrealEditor\Development\Yaga\Yaga.Shared.rsp"
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Yaga",
+			"Path": "..\\Source\\Yaga.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "YagaEditor",
+			"Path": "..\\Source\\YagaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
